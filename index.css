@@ -1,0 +1,84 @@
+.bag-img{
+    background-image: url(hot-gadgets/header-bg.png);
+}
+.carousel-item{
+    padding: 20px 40px;
+    
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom,black 0%,black 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.buy-now-button:hover{
+
+    
+    background-color: royalblue;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.container{
+    margin-bottom: 20px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px;
+}
+.card-img-top{
+    width: 100%;
+    padding: 20%;
+    
+}
+.card-body{
+    text-align: center;
+}
+.dowon{
+    margin-bottom: 20px;
+    color: blue;
+    
+}
+.catagor{
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+  
+    font-weight: 600;
+    background-image: url(hot-gadgets/header-bg.png);
+    padding: 50px;
+}
+.box{
+    border: none;
+    box-shadow: 3px 4px 10px;
+    padding: 20px 40px;
+    font-family: Anton ;
+    font-size: 20PX;
+    color:darkred;
+
+}
+.cat2{
+    padding-bottom: 25px;
+}
+figcaption{
+    text-align: center;
+    font-weight: 700;
+
+}
+.footer{
+    text-align: center;
+    font-size: small;
+    font-weight: bold;
+    background-color: lavender;
+    box-shadow: 3px 4px 10px;
+    color:darkred;
+
+}
+.bg{
+    background-color: lightgray;
+}
+.box-bg{
+    background-color: lightgray;
+}
